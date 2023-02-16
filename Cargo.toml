@@ -1,0 +1,12 @@
+[package]
+name = "semistr"
+version = "0.1.0"
+edition = "2021"
+authors = ["jiangzhe <nju.jiangzhe@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Immutable string stored inline or on heap"
+keywords = ["string"]
+repository = "https://github.com/jiangzhe/semistr/"
+
+[dependencies]
+thiserror = "1.0"
